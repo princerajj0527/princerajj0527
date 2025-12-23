@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>	•	🔭 I’m currently working on:<br>Data Structures & Algorithms, C++ projects, and beginner-friendly GitHub repositories<br>	•	👯 I’m looking to collaborate on:<br>Open-source projects, beginner to intermediate C++ / Python projects<br>	•	🤝 I’m looking for help with:<br>Competitive programming, system design basics, and real-world project ideas<br>	•	🌱 I’m currently learning:<br>C++, DSA, Git & GitHub, and problem-solving techniques<br>	•	💬 Ask me about:<br>C++, basic algorithms, college projects, or how to start coding<br>	•	⚡ Fun fact:<br>I enjoy solving coding problems and staying active with sports & gym 💪
+👋 About Me<br>	•	🔭 I’m currently working on Data Structures & Algorithms, C++ projects, and beginner-friendly GitHub repositories<br>	•	👯 I’m looking to collaborate on Open-source projects, beginner to intermediate C++ / Python projects<br>	•	🤝 I’m looking for help with Competitive programming, system design basics, and real-world project ideas<br>	•	🌱 I’m currently learning C++, DSA, Git & GitHub, and problem-solving techniques<br>	•	💬 Ask me about C++, basic algorithms, college projects, or how to start coding<br>	•	⚡ Fun fact I enjoy solving coding problems and staying active with sports & gym 💪
 
 
 ## 🌐 Socials:
